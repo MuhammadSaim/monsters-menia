@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MuhammadSaim/monsters-menia/static/css/main.46929505.chunk.css",
+    "main.js": "/MuhammadSaim/monsters-menia/static/js/main.68da5bae.chunk.js",
+    "main.js.map": "/MuhammadSaim/monsters-menia/static/js/main.68da5bae.chunk.js.map",
+    "runtime-main.js": "/MuhammadSaim/monsters-menia/static/js/runtime-main.8022fa14.js",
+    "runtime-main.js.map": "/MuhammadSaim/monsters-menia/static/js/runtime-main.8022fa14.js.map",
+    "static/js/2.f65d83a6.chunk.js": "/MuhammadSaim/monsters-menia/static/js/2.f65d83a6.chunk.js",
+    "static/js/2.f65d83a6.chunk.js.map": "/MuhammadSaim/monsters-menia/static/js/2.f65d83a6.chunk.js.map",
+    "index.html": "/MuhammadSaim/monsters-menia/index.html",
+    "precache-manifest.ba5a0cc0f62ea706c42d0daaaad11c1c.js": "/MuhammadSaim/monsters-menia/precache-manifest.ba5a0cc0f62ea706c42d0daaaad11c1c.js",
+    "service-worker.js": "/MuhammadSaim/monsters-menia/service-worker.js",
+    "static/css/main.46929505.chunk.css.map": "/MuhammadSaim/monsters-menia/static/css/main.46929505.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8022fa14.js",
+    "static/js/2.f65d83a6.chunk.js",
+    "static/css/main.46929505.chunk.css",
+    "static/js/main.68da5bae.chunk.js"
+  ]
+}
